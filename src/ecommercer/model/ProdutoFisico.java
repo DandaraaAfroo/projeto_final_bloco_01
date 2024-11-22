@@ -1,4 +1,4 @@
-package produtos.model;
+package ecommercer.model;
 
 public class ProdutoFisico extends Produtos {
 
